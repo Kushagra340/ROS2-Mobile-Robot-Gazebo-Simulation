@@ -1,0 +1,14 @@
+# Colcon build
+build/
+install/
+log/
+.colcon/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Large media files — upload to GitHub Releases instead
+*.mp4
+*.mov
+*.avi
